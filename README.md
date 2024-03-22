@@ -13,9 +13,9 @@ Information about the breed of dog is important. But we can't identify more than
 ## Usage of this app 🐕
 Open this app using URL here: https://canine-classifier.streamlit.app/
 
-or
+or scan this QR code 👇
 
-using ![QR code](https://github.com/wilsoncooked/canine-classifier-app/blob/master/images/qrcode.png)
+![QR code](https://github.com/wilsoncooked/canine-classifier-app/blob/master/images/qrcode.png)
 
 How to use the app:
 🚀 Step 1: Either take a photo using camera or upload an image from your device
@@ -44,5 +44,7 @@ GNU General Public License (GPL) v3
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+## Contact 📧
+Email me at: bhatvjay24[at]gmail.com
 
 ![Dogs all lined up](https://images.unsplash.com/photo-1494947665470-20322015e3a8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGRvZ3N8ZW58MHx8MHx8fDI%3D)
