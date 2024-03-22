@@ -1,3 +1,6 @@
 [submodule "canine-classifier-api"]
 	path = canine-classifier-api
 	url = https://github.com/wilsoncooked/canine-classifier-api
+[submodule "canine-classifier-app"]
+	path = canine-classifier-app
+	url = https://github.com/wilsoncooked/canine-classifier-app
