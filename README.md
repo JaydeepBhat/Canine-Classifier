@@ -17,7 +17,7 @@ or scan this QR code 👇
 
 ![QR code](https://github.com/wilsoncooked/canine-classifier-app/blob/master/images/qrcode.png)
 
-How to use the app:
+How to use the app, follow these steps 👇 <br>
 🚀 Step 1: Either take a photo using camera or upload an image from your device <br>
 🚀 Step 2: Adjust the square frame around the dog in the image <br>
 🚀 Step 3: Click 'Identify dog' <br>
