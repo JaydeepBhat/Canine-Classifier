@@ -25,7 +25,7 @@ How to use the app, follow these steps 👇 <br>
 🚀 Step 5 (optional): Try another dog's image by clicking on 'Try another dog' option <br>
 
 ## Source code ℹ️
-These two repositories are linked to the GitHub repositories of Sarah Wilsoncook. As project lead, all the original codes and commits can be found in her repo. Please follow the  submodule links for the same.
+Directories in this repo are linked to the GitHub repositories of Sarah Wilsoncook (project lead). All the original codes and commits were deposited in her repo during the project work. Please follow the  submodule links for the same.
 
 ## License 🎓👀
 GNU General Public License (GPL) v3
