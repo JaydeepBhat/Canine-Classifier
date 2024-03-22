@@ -11,8 +11,11 @@
 Information about the breed of dog is important. But we can't identify more than 50% of dog breeds correctly. So, we used the computer vision approach to solve this problem. We used the convolutional neural network (CNN, a deep learning method). We tested different model families of CNN architecture and then implemented the EfficientNetV2S, a pre-trained model for this project. We added gradcam features in the last prediction layer. This model was assembled into Docker and deployed on the Google Cloud Platform (GCP) in Artifact Registry. For the front end, we used Streamlit to make the user interface available. The output is the prediction probability score in percentage and relevant information of the dog's breeds (pure or mixed).
 
 ## Usage of this app 🐕
-Open this app using URL here: ![web-app](https://canine-classifier.streamlit.app/)
-or using ![QR code](https://github.com/wilsoncooked/canine-classifier-app/blob/master/images/qrcode.png)
+Open this app using URL here: https://canine-classifier.streamlit.app/
+
+or
+
+using ![QR code](https://github.com/wilsoncooked/canine-classifier-app/blob/master/images/qrcode.png)
 
 How to use the app:
 🚀 Step 1: Either take a photo using camera or upload an image from your device
